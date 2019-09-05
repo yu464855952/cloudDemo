@@ -28,6 +28,7 @@ public class ConsumerController {
 
 	@RequestMapping("demo")
 	public String demo(){
+		//ip+端口改为应用名
 		return restTemplate.getForObject("http://provider-demo/provider/demo",String.class);
 	}
 }

@@ -10,7 +10,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>service-ribbon</artifactId>
+	<artifactId>serviceribbon</artifactId>
 
 	<properties>
 		<java.version>1.8</java.version>
@@ -25,12 +25,6 @@
 		</dependency>
 
 	</dependencies>
-
-
-
-
-
-
 
 
 </project>

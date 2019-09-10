@@ -1,4 +1,4 @@
-package com.forezp.service;
+package com.cloud.example.serviceribbon.service;
 
 
 import org.springframework.beans.factory.annotation.Autowired;

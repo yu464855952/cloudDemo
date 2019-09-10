@@ -1,6 +1,6 @@
-package com.forezp.web;
+package com.cloud.example.serviceribbon.web;
 
-import com.forezp.service.HelloService;
+import com.cloud.example.serviceribbon.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;

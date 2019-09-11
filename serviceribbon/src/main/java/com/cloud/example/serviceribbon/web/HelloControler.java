@@ -7,13 +7,13 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
+ * @program clouddemo
+ * @description: RestTemplate+Ribbon去消费服务
  * @author: yubing
- * @create: 2019/09/03 19:03
+ * @create: 2019/09/11 11:18
  */
 @RestController
 public class HelloControler {
-
-
 
     @Autowired
     HelloService helloService;

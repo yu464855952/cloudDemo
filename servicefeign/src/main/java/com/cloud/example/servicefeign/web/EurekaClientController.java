@@ -1,6 +1,6 @@
-package com.cloud.example.sericefeign.web;
+package com.cloud.example.servicefeign.web;
 
-import com.cloud.example.sericefeign.service.IEurekaClient;
+import com.cloud.example.servicefeign.service.IEurekaClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;

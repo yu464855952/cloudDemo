@@ -1,4 +1,4 @@
-package com.cloud.example.sericefeign;
+package com.cloud.example.servicefeign;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

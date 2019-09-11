@@ -1,4 +1,4 @@
-package com.cloud.example.sericefeign;
+package com.cloud.example.servicefeign;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
